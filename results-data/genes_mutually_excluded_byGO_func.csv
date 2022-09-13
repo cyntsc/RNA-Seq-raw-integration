@@ -1,0 +1,98 @@
+GO_id	Genes	GO_term	GO_slim												
+GO:0000234	AT1G48600	phosphoethanolamine	N-methyltransferase	activity	transferase	activity									
+GO:0000234	AT1G73600	phosphoethanolamine	N-methyltransferase	activity	transferase	activity									
+GO:0003849	AT1G22410	3-deoxy-7-phosphoheptulonate	synthase	activity	transferase	activity									
+GO:0003849	AT4G33510	3-deoxy-7-phosphoheptulonate	synthase	activity	transferase	activity									
+GO:0003849	AT4G39980	3-deoxy-7-phosphoheptulonate	synthase	activity	transferase	activity									
+GO:0003958	AT4G24520	NADPH-hemoprotein	reductase	activity	catalytic	activity									
+GO:0003958	AT4G30210	NADPH-hemoprotein	reductase	activity	catalytic	activity									
+GO:0004044	AT2G16570	amidophosphoribosyltransferase	activity	transferase	activity										
+GO:0004044	AT4G34740	amidophosphoribosyltransferase	activity	transferase	activity										
+GO:0004044	AT4G38880	amidophosphoribosyltransferase	activity	transferase	activity										
+GO:0004351	AT1G65960	glutamate	decarboxylase	activity	catalytic	activity									
+GO:0004351	AT2G02010	glutamate	decarboxylase	activity	catalytic	activity									
+GO:0004351	AT3G17720	glutamate	decarboxylase	activity	catalytic	activity									
+GO:0004351	AT3G17760	glutamate	decarboxylase	activity	catalytic	activity									
+GO:0004356	AT1G48470	glutamate-ammonia	ligase	activity	catalytic	activity									
+GO:0004356	AT1G66200	glutamate-ammonia	ligase	activity	catalytic	activity									
+GO:0004478	AT1G02500	methionine	adenosyltransferase	activity	transferase	activity									
+GO:0004478	AT3G17390	methionine	adenosyltransferase	activity	transferase	activity									
+GO:0004478	AT4G01850	methionine	adenosyltransferase	activity	transferase	activity									
+GO:0004612	AT4G37870	phosphoenolpyruvate	carboxykinase	(ATP)	activity	catalytic	activity								
+GO:0004612	AT5G65690	phosphoenolpyruvate	carboxykinase	(ATP)	activity	catalytic	activity								
+GO:0004664	AT1G08250	prephenate	dehydratase	activity	catalytic	activity									
+GO:0004664	AT3G44720	prephenate	dehydratase	activity	catalytic	activity									
+GO:0004838	AT2G24850	L-tyrosine:2-oxoglutarate	aminotransferase	activity	transferase	activity									
+GO:0004838	AT5G36160	L-tyrosine:2-oxoglutarate	aminotransferase	activity	transferase	activity									
+GO:0004866	AT1G71950	endopeptidase	inhibitor	activity	enzyme	regulator	activity								
+GO:0004866	AT1G73260	endopeptidase	inhibitor	activity	enzyme	regulator	activity								
+GO:0008131	AT2G19500	primary	amine	oxidase	activity	catalytic	activity								
+GO:0008131	AT4G12280	primary	amine	oxidase	activity	catalytic	activity								
+GO:0008131	AT5G56970	primary	amine	oxidase	activity	catalytic	activity								
+GO:0008792	AT2G16500	arginine	decarboxylase	activity	catalytic	activity									
+GO:0008792	AT4G34710	arginine	decarboxylase	activity	catalytic	activity									
+GO:0015141	AT2G22500	succinate	transmembrane	transporter	activity	transporter	activity								
+GO:0015141	AT5G01340	succinate	transmembrane	transporter	activity	transporter	activity								
+GO:0015145	AT1G07340	monosaccharide	transmembrane	transporter	activity	transporter	activity								
+GO:0015145	AT1G11260	monosaccharide	transmembrane	transporter	activity	transporter	activity								
+GO:0015145	AT4G21480	monosaccharide	transmembrane	transporter	activity	transporter	activity								
+GO:0015232	AT2G07768	heme	transmembrane	transporter	activity	transporter	activity								
+GO:0015232	ATMG00110	heme	transmembrane	transporter	activity	transporter	activity								
+GO:0015232	ATMG00830	heme	transmembrane	transporter	activity	transporter	activity								
+GO:0015232	ATMG00900	heme	transmembrane	transporter	activity	transporter	activity								
+GO:0015368	AT1G55720	calcium:cation	antiporter	activity	transporter	activity									
+GO:0015368	AT2G38170	calcium:cation	antiporter	activity	transporter	activity									
+GO:0015368	AT5G01490	calcium:cation	antiporter	activity	transporter	activity									
+GO:0016296	AT1G35290	palmitoyl-[acyl-carrier-protein]	hydrolase	activity	hydrolase	activity	|	transferase	activity						
+GO:0016296	AT1G68260	palmitoyl-[acyl-carrier-protein]	hydrolase	activity	transferase	activity	|	hydrolase	activity						
+GO:0016707	AT1G15550	gibberellin	3-beta-dioxygenase	activity	catalytic	activity									
+GO:0016707	AT1G80340	gibberellin	3-beta-dioxygenase	activity	catalytic	activity									
+GO:0016707	AT4G21690	gibberellin	3-beta-dioxygenase	activity	catalytic	activity									
+GO:0016744	AT3G21500	transferase	activity,	transferring	aldehyde	or	ketonic	groups	transferase	activity					
+GO:0016744	AT5G11380	transferase	activity,	transferring	aldehyde	or	ketonic	groups	transferase	activity					
+GO:0016756	AT1G03980	glutathione	gamma-glutamylcysteinyltransferase	activity	transferase	activity	|	catalytic	activity						
+GO:0016756	AT5G44070	glutathione	gamma-glutamylcysteinyltransferase	activity	transferase	activity	|	catalytic	activity						
+GO:0016899	AT1G01980	oxidoreductase	activity,	acting	on	the	CH-OH	group	of	donors,	oxygen	as	acceptor	catalytic	activity
+GO:0016899	AT1G11770	oxidoreductase	activity,	acting	on	the	CH-OH	group	of	donors,	oxygen	as	acceptor	catalytic	activity
+GO:0016899	AT4G20830	oxidoreductase	activity,	acting	on	the	CH-OH	group	of	donors,	oxygen	as	acceptor	catalytic	activity
+GO:0016899	AT4G20840	oxidoreductase	activity,	acting	on	the	CH-OH	group	of	donors,	oxygen	as	acceptor	catalytic	activity
+GO:0017022	AT1G18990	myosin	binding	protein	binding										
+GO:0017022	AT1G74830	myosin	binding	protein	binding										
+GO:0017022	AT5G06560	myosin	binding	protein	binding										
+GO:0034480	AT3G03530	phosphatidylcholine	phospholipase	C	activity	hydrolase	activity								
+GO:0034480	AT3G03540	phosphatidylcholine	phospholipase	C	activity	hydrolase	activity								
+GO:0036381	AT2G38230	pyridoxal	5'-phosphate	synthase	(glutamine	hydrolysing)	activity	catalytic	activity						
+GO:0036381	AT5G01410	pyridoxal	5'-phosphate	synthase	(glutamine	hydrolysing)	activity	catalytic	activity						
+GO:0042054	AT2G24740	histone	methyltransferase	activity	transferase	activity	|	catalytic	activity						
+GO:0042054	AT2G33290	histone	methyltransferase	activity	catalytic	activity	|	transferase	activity						
+GO:0042282	AT1G76490	hydroxymethylglutaryl-CoA	reductase	activity	catalytic	activity									
+GO:0042282	AT2G17370	hydroxymethylglutaryl-CoA	reductase	activity	catalytic	activity									
+GO:0042349	AT1G64160	guiding	stereospecific	synthesis	activity	enzyme	regulator	activity							
+GO:0042349	AT4G23690	guiding	stereospecific	synthesis	activity	enzyme	regulator	activity							
+GO:0043047	AT1G52950	single-stranded	telomeric	DNA	binding	DNA	binding								
+GO:0043047	AT4G19130	single-stranded	telomeric	DNA	binding	DNA	binding								
+GO:0045544	AT4G25420	gibberellin	20-oxidase	activity	catalytic	activity									
+GO:0045544	AT5G07200	gibberellin	20-oxidase	activity	catalytic	activity									
+GO:0045544	AT5G51810	gibberellin	20-oxidase	activity	catalytic	activity									
+GO:0045549	AT1G78390	9-cis-epoxycarotenoid	dioxygenase	activity	catalytic	activity									
+GO:0045549	AT2G44990	9-cis-epoxycarotenoid	dioxygenase	activity	catalytic	activity									
+GO:0045549	AT3G63520	9-cis-epoxycarotenoid	dioxygenase	activity	catalytic	activity									
+GO:0046027	AT3G44830	phospholipid:diacylglycerol	acyltransferase	activity	transferase	activity									
+GO:0046027	AT5G13640	phospholipid:diacylglycerol	acyltransferase	activity	transferase	activity									
+GO:0047364	AT1G18590	desulfoglucosinolate	sulfotransferase	activity	transferase	activity									
+GO:0047364	AT1G74100	desulfoglucosinolate	sulfotransferase	activity	transferase	activity									
+GO:0047746	AT1G19670	chlorophyllase	activity	hydrolase	activity										
+GO:0047746	AT5G38520	chlorophyllase	activity	hydrolase	activity										
+GO:0051020	AT2G28250	GTPase	binding	protein	binding										
+GO:0051020	AT3G05140	GTPase	binding	protein	binding										
+GO:0051020	AT5G50550	GTPase	binding	protein	binding										
+GO:0052692	AT3G57520	raffinose	alpha-galactosidase	activity	hydrolase	activity									
+GO:0052692	AT5G08380	raffinose	alpha-galactosidase	activity	hydrolase	activity									
+GO:0080019	AT3G11980	fatty-acyl-CoA	reductase	(alcohol-forming)	activity	catalytic	activity								
+GO:0080019	AT3G44540	fatty-acyl-CoA	reductase	(alcohol-forming)	activity	catalytic	activity								
+GO:0080019	AT3G44550	fatty-acyl-CoA	reductase	(alcohol-forming)	activity	catalytic	activity								
+GO:0080019	AT3G56700	fatty-acyl-CoA	reductase	(alcohol-forming)	activity	catalytic	activity								
+GO:1902388	AT2G33470	ceramide	1-phosphate	transfer	activity	transporter	activity								
+GO:1902388	AT4G39670	ceramide	1-phosphate	transfer	activity	transporter	activity								
+GO:1990136	AT1G55020	linoleate	9S-lipoxygenase	activity	catalytic	activity									
+GO:1990136	AT3G22400	linoleate	9S-lipoxygenase	activity	catalytic	activity									
