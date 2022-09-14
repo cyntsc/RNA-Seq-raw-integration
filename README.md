@@ -1,4 +1,6 @@
 # RNA-Seq-matrix-integration framework
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7076416.svg)](https://doi.org/10.5281/zenodo.7076416)
+
 Four-Step methodology to integrate raw RNA-Seq counts into a normalized and standardized expression matrix
 <br><br>
 Preprint can be read on:
