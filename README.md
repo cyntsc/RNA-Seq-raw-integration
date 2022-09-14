@@ -52,9 +52,15 @@ Cite us as: ****** (in progress)
 * GM of infected plants identified & differentiated in more than 77% from the GM of healthy plants were annotated with the GO-Slim clasiffication from TAIR <br>
 
 **INDEX OF THE CONTENT OF THIS REPOSITORY:** 
-https://github.com/cyntsc/RNA-Seq-raw-integration/blob/e646fcff19635cf09f80c0e2032ce071e5342f58/index.txt<br><br>
+https://github.com/cyntsc/RNA-Seq-raw-integration/blob/e646fcff19635cf09f80c0e2032ce071e5342f58/index.txt<br>
 
-Any doubt, please write me to cyntsc10 at gmail dot com
+**IMPORTANT NOTES:** 
+https://github.com/cyntsc/RNA-Seq-raw-integration/blob/5abb1f6ffa52e466d27938466ef37f6e4bff5609/Additional_notes.pdf<br>
+
+**PYTHON REQUIREMENTS FOR IMPLEMENTING THE 4-STEP METHODOLOGY:** 
+https://github.com/cyntsc/RNA-Seq-raw-integration/blob/5abb1f6ffa52e466d27938466ef37f6e4bff5609/requirements.txt<br><br>
+
+Any doubt, please write me to **cyntsc10 at gmail dot com**
 <br><br>
 
 Best :thumbsup: <br>
