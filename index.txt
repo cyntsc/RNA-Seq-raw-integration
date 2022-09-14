@@ -1,0 +1,61 @@
+REPOSITORY CONTENT:
+
+Scripts used for preprocesing rna-seq bulk rna-seq libraries (linux commands):
+├── HTC_scripts_biotools
+│   ├── fastQC.sh
+│   ├── HTSeq_BAM_reader.sh
+│   ├── HTSeq_count2_PE.sh
+│   ├── HTSeq_count2.sh
+│   ├── HTSeq_count3.sh
+│   ├── HTSeq_count.sh
+│   ├── STAR_alignments2_PE.sh
+│   ├── STAR_alignments2_SE.sh
+│   ├── STAR_alignments3_SE.sh
+│   ├── STAR_alignments.sh
+│   ├── STAR_Idx.sh
+│   ├── STAR_quant.sh
+│   ├── trimmomatic3.sh
+│   └── trimmomatic.sh
+
+Files with meta-data used for building the coexpression ntw with WGCNA (heatmaps) :
+├── meta-data
+│   ├── Traits_Healthy_hpi.cvs
+│   ├── Traits_Healthy_sample.csv
+│   ├── Traits_Infected_hpi.csv
+│   └── Traits_Infected_sample.csv
+
+Scripts used for implementig the 4-Step methodology (python) :
+├── notebooks
+│   ├── 1_Step1_integrating_raw_counts.ipynb
+│   ├── 2_Step2_TPM_normalization.ipynb
+│   ├── 3_Step3_TPM_standardization.ipynb
+│   ├── 4_Step4_Log2_scale.ipynb
+│   ├── 6_modules_percentual_differentiation.ipynb
+│   ├── Gene_length_extraction_from_GTF.ipynb
+│   └── Venn_diagram_genes_in_ceros.ipynb
+
+Files with statistics, some GO-annotations and the expression matrices built with the 4-Step:
+├── results-data  
+│   ├── geneID_off_infected_TAIR_Annotation.pdf
+│   ├── geneID_off_infected_TAIR_Functional_Categorization.pdf
+│   ├── geneID_off_infected_TAIR_Functional_Categorization_PieChart.pdf
+│   ├── genes_mutually_excluded_byGO_func.csv
+│   ├── healthy_exclusive_repressed_genes.csv
+│   ├── healthy_geneIDs_with_zeros.csv
+│   ├── infected_exclusive_geneIDs_in_zero.csv
+│   ├── infected_exclusive_repressed_genes.csv
+│   ├── infected_geneIDs_with_zeros.csv
+│   ├── matrices_de_expresion
+│   ├── statistics
+│   └── wgcna_GM_logical_comp_SFT
+
+Scripts used for implementig the WGCNA (R):
+└── WGCNA_RScripts
+    ├── 01_Healthy_SignedNtw_D.R
+    ├── 01_Infected_SignedNtw_E.R
+    ├── 02_Infected_GS_MM_24hpi.R
+    └── 02_Infected_GS_MM_24hpi_ward.R
+
+8 directories, 40 files
+
+CSC/Sep-14-2022
