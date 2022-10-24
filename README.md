@@ -15,7 +15,7 @@ Cite us as: ****** (in progress)
 * Step 3-Data standardization. <br>
 * Step 4-Scaling requirements and outlier identification.<br>
 
-**See illustration:** https://github.com/cyntsc/RNA-Seq-raw-integration/blob/f5b5fe6b090b6f57d9e04a062366d1c145b28bc0/images/Figure%201.%204S-Framework%20v8.jpg
+**See methodology:** https://github.com/cyntsc/RNA-Seq-raw-integration/blob/f5b5fe6b090b6f57d9e04a062366d1c145b28bc0/images/Figure%201.%204S-Framework%20v8.jpg
 <br>  
 
 <h3>Where does the data come from?</h3>
