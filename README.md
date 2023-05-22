@@ -1,4 +1,4 @@
-# RNA-Seq-matrix-integration framework
+# RNA-Seq-count-integration framework
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7076416.svg)](https://doi.org/10.5281/zenodo.7076416)
 
 Four-Step methodology to integrate raw RNA-Seq counts into a normalized and standardized expression matrix
@@ -10,13 +10,15 @@ Cite us as: ****** (in progress)
 
 <h3>What are the 4-steps?</h3>
 
+![Alt text](/images/metodologia.png?raw=true "4-Step methodology")
+
+<p align=center>Figure. 4-Step methodology to integrate and standardize RNA-seq counts.</p>
+
 * Step 1-Integration of raw-counts.<br>
 * Step 2-Data normalization of raw-counts.<br>
 * Step 3-Data standardization. <br>
 * Step 4-Scaling requirements and outlier identification.<br>
 
-**See methodology:** https://github.com/cyntsc/RNA-Seq-raw-integration/blob/f5b5fe6b090b6f57d9e04a062366d1c145b28bc0/images/Figure%201.%204S-Framework%20v8.jpg
-<br>  
 
 <h3>Where does the data come from?</h3>
 
