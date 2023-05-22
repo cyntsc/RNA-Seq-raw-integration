@@ -19,6 +19,7 @@ Cite us as: ****** (in progress)
 * Step 3-Data standardization. <br>
 * Step 4-Scaling requirements and outlier identification.<br>
 
+Scripts available at: https://github.com/cyntsc/RNA-Seq-raw-integration/tree/main/notebooks
 
 <h3>Where does the data come from?</h3>
 
